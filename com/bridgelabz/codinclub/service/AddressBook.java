@@ -197,7 +197,6 @@ public class AddressBook implements IAddressBook{
 		}catch(Exception e){
 			e.printStackTrace();
 		}
-	}//delete
-}//class
-
+	}
+}
 
